@@ -1,0 +1,9 @@
+{
+	"id": 750053,
+	"name": "Hotel du Mont Blanc",
+	"address": "28 Ruede la Huchette, Paris",
+	"stars": 2.0,
+	"distance": 400.0,
+    "image": "3.jpg",
+   "suites_availability": "1:44:21:87:99:34"
+}

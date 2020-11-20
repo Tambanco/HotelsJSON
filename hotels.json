@@ -1,0 +1,58 @@
+[
+	{
+		"id": 750053,
+		"name": "Hotel du Mont Blanc",
+		"address": "28 Ruede la Huchette, Paris",
+		"stars": 2.0,
+		"distance": 400.0,
+		"suites_availability": "1:44:21:87:99:34"
+	},
+	{
+		"id": 19010,
+		"name": "Villa Des Princes",
+		"address": "rue Monsieur le Prince, Paris",
+		"stars": 2.0,
+		"distance": 620.0,
+		"suites_availability": "5:8:32:54"
+	},
+	{
+		"id": 03084,
+		"name": "Hotel Recamier",
+		"address": "3 bis, Place Saint-Sulpice, Paris",
+		"stars": 4.0,
+		"distance": 910.1,
+		"suites_availability": "1"
+	},
+	{
+		"id": 18220,
+		"name": "Pullman Paris Tour Eiffel",
+		"address": "18 Ave de Suffren, Entree au 22 rue Jean Rey, Paris",
+		"stars": 4.0,
+		"distance": 3700.0,
+		"suites_availability": "15:48:115:72:81"
+	},
+	{
+		"id": 80127,
+		"name": "Young and Happy Latin Quarter by Hiphophostels",
+		"address": "80 Rue Mouffetard, Paris",
+		"stars": 0.0,
+		"distance": 1650.4,
+		"suites_availability": "42:33:22"
+	},
+	{
+		"id": 15112,
+		"name": "Citadines Saint-Germain-des-Pres Paris",
+		"address": "53 ter, quai des Grands Augustins, Paris",
+		"stars": 4.0,
+		"distance": 190,
+		"suites_availability": "2:87:24:65:26:119:202:6"
+	},
+	{
+    	"id": 13951,
+    	"name": "Hotel Ducs de Bourgogne",
+    	"address": "Rue Du Pont Neuf, 19, Paris",
+    	"stars": 4.0,
+    	"distance": 450,
+    	"suites_availability": "1"
+	}
+]

@@ -1,0 +1,8 @@
+{
+	"name": "Hotel Recamier",
+	"address": "3 bis, Place Saint-Sulpice, Paris",
+	"stars": 4.0,
+	"distance": 910.1,
+    "image": "4.jpg",
+    "suites_availability": "1"
+}
